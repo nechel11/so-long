@@ -7,7 +7,7 @@
 ## How to run
 ```
 git clone https://github.com/nechel11/so-long.git
-cd so_long
+cd so-long
 make 
 ./so_long maps/map.ber
 
