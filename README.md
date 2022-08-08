@@ -13,5 +13,11 @@ make
 ./so_long maps/map.ber
 ```
 
+## Customization
+# Users maps
+  You can add your maps in /map with .ber ending.
+# Users sprites
+  You can add your custom sprites in /img. Sprites should be .xpm ending, size of sprites is 42x42
+
 ## How to play
 collect all collectables and etner the exit
